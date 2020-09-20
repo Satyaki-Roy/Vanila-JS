@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a91eec3d-ee1f-4001-a750-166ffaf5f932" name="Default Changelist" comment="" />
+    <list default="true" id="a91eec3d-ee1f-4001-a750-166ffaf5f932" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,17 +74,28 @@
       <option name="presentableId" value="Default" />
       <updated>1600597731653</updated>
       <workItem from="1600597733139" duration="1530000" />
-      <workItem from="1600600206070" duration="175000" />
+      <workItem from="1600600206070" duration="2580000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="476" y="1267" key="SettingsEditor" timestamp="1600600179638">
+    <state x="476" y="1267" key="SettingsEditor" timestamp="1600600430345">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="476" y="1267" key="SettingsEditor/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1600600179638" />
+    <state x="476" y="1267" key="SettingsEditor/0.1080.1920.1080/55.0.1865.1080@0.1080.1920.1080" timestamp="1600600430345" />
   </component>
 </project>
